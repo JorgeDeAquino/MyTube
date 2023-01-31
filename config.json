@@ -1,7 +1,7 @@
 {
     "name": "Jorge Alexandre",
     "job": "Desenvolvedor Front-End",
-    "bg": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "bg": "https://media.licdn.com/dms/image/D4D16AQFsbjXMMSrDAg/profile-displaybackgroundimage-shrink_350_1400/0/1671818319987?e=1680739200&v=beta&t=Ah478NqUJbqq7hhLGPOda3lzvOa8EGg7Vo5Oi9QHlTA",
     "github": "JorgeDeAquino",
     "playlists": {
         "jogos": [
@@ -53,11 +53,6 @@
             "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
           },
           {
-            "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-            "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
-            "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
-          },
-          {
             "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
             "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
             "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
@@ -86,11 +81,6 @@
             "title": "5 Erros Históricos do CSS",
             "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
             "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
-          },
-          {
-            "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
-            "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
-            "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
           }
         ],
         "back-end": [
@@ -124,11 +114,6 @@
             "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
             "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
             "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
-          },
-          {
-            "title": "O que é o C#? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
-            "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
           }
         ]
       }

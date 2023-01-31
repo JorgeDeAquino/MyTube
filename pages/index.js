@@ -59,8 +59,12 @@ const StyledHeader = styled.div`
 const StyledBanner = styled.div`
     background-color: blue;
     background-image: url(${({ bg }) => bg});
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 90%;
     /* background-image: url(${config.bg}); */
-    height: 230px;
+    height: 330px;
 `;
 function Header() {
     return (
