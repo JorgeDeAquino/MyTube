@@ -30,6 +30,8 @@ export default HomePage
 
 
 const StyledHeader = styled.div`
+    background-color: ${({ theme }) => theme.backgroundLevel1};
+
     img {
         width: 80px;
         height: 80px;
@@ -44,14 +46,13 @@ const StyledHeader = styled.div`
     }
 `;
 const StyledBanner = styled.div`
-    background-color: blue;
     background-image: url(${({ bg }) => bg});
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-position-y: 90%;
     /* background-image: url(${config.bg}); */
-    height: 330px;
+    height: 300px;
 `;
 function Header() {
     return (
