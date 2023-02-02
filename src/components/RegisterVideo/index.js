@@ -27,7 +27,7 @@ export default function RegisterVideo() {
     const formCadastro = useForm({
         initialValues: { titulo: "Frost punk", url: "https://youtube.." }
     });
-    const [formVisivel, setFormVisivel] = React.useState(true);
+    const [formVisivel, setFormVisivel] = React.useState(false);
     /*
     ## O que precisamos para o form funcionar?
     - pegar os dados, que precisam vir do state
